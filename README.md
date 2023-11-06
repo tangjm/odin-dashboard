@@ -1,9 +1,9 @@
 ### Dashboard Project
 
-Dashboard project with objective of practising grid.
+Dashboard project for practising CSS grid.
 
 ### Development
 
-Open html file in your browser or using VSCode live server to see the end result.
+Open `index.html` in your browser or through VSCode live server to see the end result.
 
 
