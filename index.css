@@ -235,7 +235,7 @@ svg {
   border: var(--border-effect);
   border-left: 5px solid var(--secondary-colour);
   background: white;
-  border-radius: var(--border-radius);
+  border-radius: var(--card-border-radius);
   padding: 10px;
   display: grid;
   grid-template-columns: 1fr 1fr; 
@@ -278,7 +278,7 @@ svg {
 
 .announcements > .announcement-list {
   border: var(--border-effect);
-  border-radius: 10px;
+  border-radius: var(--card-border-radius);
   display: grid;
   gap: 10px;
   background: white;
@@ -310,7 +310,7 @@ svg {
 
 .trending > .trending-list {
   border: var(--border-effect);
-  border-radius: 10px;
+  border-radius: var(--card-border-radius);
   box-shadow: var(--box-shadow-effect);
   padding: 10px;
   background: white;
